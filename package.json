@@ -1,0 +1,22 @@
+{
+  "name": "resource-plugin",
+  "version": "1.0.2",
+  "description": "iframe-plugins",
+  "main": "spring-summer-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hchenxiao/resource-plugin.git"
+  },
+  "author": "gy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hchenxiao/resource-plugin/issues"
+  },
+  "homepage": "https://github.com/Hchenxiao/resource-plugin#readme",
+  "keywords": [
+    "resource-iframe"
+  ]
+}
